@@ -72,25 +72,25 @@ Columns include:
 
 ### Dataset Information
 
-![Dataset Info](screenshots/dataset_info.png)
+![Dataset Info](dataset_info.png)
 
 ---
 
 ### Summary Statistics Report
 
-![Summary Report](screenshots/summary_report.png)
+![Summary Report](summary_report.png)
 
 ---
 
 ### Total Bill Distribution
 
-![Bill Distribution](screenshots/bill_distribution.png)
+![Bill Distribution](bill_distribution.png)
 
 ---
 
 ### Tip Distribution
 
-![Tip Distribution](screenshots/tip_distribution.png)
+![Tip Distribution](tip_distribution.png)
 
 ---
 
